@@ -1,5 +1,6 @@
 # Flash Cards (French)
-A flash card desktop app that helps the user learn French
+A flash card desktop app that helps the user learn French.<br>
+_If you experience an error (ImportError) you may have forgotten to install dependencies:_ <code>pip install -r requirements.txt</code>
 
 ![image](https://user-images.githubusercontent.com/103232802/163047125-9a3f2d37-a61a-451b-9c50-9407a1a9cb95.png)
 
@@ -35,9 +36,9 @@ sudo git clone https://github.com/BRuDesDev/flash-cards.git
 cd flash-cards       
 </code><br>
 <code>
-<code>
 pip install -r requirements.txt    
 </code><br>
+<code>
 python3 main.py				
 </code><br><br>
 	
