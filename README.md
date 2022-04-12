@@ -35,6 +35,9 @@ sudo git clone https://github.com/BRuDesDev/flash-cards.git
 cd flash-cards       
 </code><br>
 <code>
+<code>
+pip install -r requirements.txt    
+</code><br>
 python3 main.py				
 </code><br><br>
 	
